@@ -1,0 +1,13 @@
+{
+  "name": "koa-study",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
